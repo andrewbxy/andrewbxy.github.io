@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>WeLight Lab</a> at the University of Hong Kong
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my_profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>301 Haking Wong Building</p>
+    <p>The University of Hong Kong</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a Postdoctoral Fellow at [WeLight Lab](https://hku.welight.fun/), Department of Electrical and Electronic Engineering, HKU. I am fortunate to be supervised by Prof. [Edmund Y. Lam](https://www.eee.hku.hk/~elam/) and [Evan Peng](https://www.eee.hku.hk/~evanpeng/). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I received my Ph.D. degree in Computer Science from University of Illinois Urbana-Champaign in 2023, advised by Prof. [Alexander Schwing](https://www.alexander-schwing.de/) and mentored by Prof. [Viktor Gruev](https://ece.illinois.edu/about/directory/faculty/vgruev) and [David Forsyth](https://luthuli.cs.uiuc.edu/~daf/). Before that, I completed my undergraduate study at University of California, Berkeley, where I majored in Computer Science, Applied Mathematics, Cognitive Science and Linguistics.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests span the fields of Computer Vision, Computer Graphics and Computational Optics. I am particularly attracted to topics related to deep learning-based optics, event camera, AR/VR and generative models. My non-research interests include science (fantasy/speculative) fictions, zoos and gaming.
