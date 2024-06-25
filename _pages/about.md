@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>WeLight Lab</a> at the University of Hong Kong
+subtitle: <a href='#'>WeLight Lab</a> and <a href='#'>Imaging Systems Lab</a> at the University of Hong Kong
 
 profile:
   align: right
@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a Postdoctoral Fellow at [WeLight Lab](https://hku.welight.fun/), Department of Electrical and Electronic Engineering, HKU. I am fortunate to be supervised by Prof. [Edmund Y. Lam](https://www.eee.hku.hk/~elam/) and [Evan Peng](https://www.eee.hku.hk/~evanpeng/). 
+I am currently a Postdoctoral Fellow at [WeLight Lab](https://hku.welight.fun/) and [Imaging Systems Lab](https://isl.eee.hku.hk/), Department of Electrical and Electronic Engineering, HKU. I am fortunate to be supervised by Prof. [Edmund Y. Lam](https://www.eee.hku.hk/~elam/) and [Evan Peng](https://www.eee.hku.hk/~evanpeng/). 
 
 I received my Ph.D. degree in Computer Science from University of Illinois Urbana-Champaign in 2023, advised by Prof. [Alexander Schwing](https://www.alexander-schwing.de/) and mentored by Prof. [Viktor Gruev](https://ece.illinois.edu/about/directory/faculty/vgruev) and David Forsyth. Before that, I completed my undergraduate study at University of California, Berkeley, where I majored in Computer Science, Applied Mathematics, Cognitive Science and Linguistics.
 
