@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper was accepted by IEEE ISMAR 2025.
+One paper was accepted by <b>IEEE ISMAR 2025</b>.

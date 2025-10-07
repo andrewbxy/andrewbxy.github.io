@@ -53,6 +53,16 @@
   ],
   "publications": [
     {
+      "name": "Enhanced Velocity Field Modeling for Gaussian Video Reconstruction",
+      "publisher": "IEEE ISMAR 2025",
+      "releaseDate": "2025"
+    },
+    {
+      "name": "Learning RGBD imaging via asymmetrically focused stereo cameras",
+      "publisher": "The Visual Computer",
+      "releaseDate": "2025"
+    },
+    {
       "name": "Learning a global underwater geolocalization model with sectoral transformer",
       "publisher": "Optics Express",
       "releaseDate": "2024"

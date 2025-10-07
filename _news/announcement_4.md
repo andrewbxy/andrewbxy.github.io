@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper was published in The Visual Computer.
+One paper was published in <b>The Visual Computer</b>.
