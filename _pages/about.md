@@ -6,7 +6,7 @@ subtitle: <a href='#'>WeLight Lab</a> and <a href='#'>Imaging Systems Lab</a> at
 
 profile:
   align: right
-  image: my_profile.jpg
+  image: my_profile_v2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>301 Haking Wong Building</p>
@@ -21,4 +21,4 @@ I am currently a Postdoctoral Fellow at [WeLight Lab](https://hku.welight.fun/) 
 
 I received my Ph.D. degree in Computer Science from University of Illinois Urbana-Champaign in 2023, advised by Prof. [Alexander Schwing](https://www.alexander-schwing.de/) and mentored by Prof. [Viktor Gruev](https://ece.illinois.edu/about/directory/faculty/vgruev) and David Forsyth. Before that, I completed my undergraduate study at University of California, Berkeley, where I majored in Computer Science, Applied Mathematics, Cognitive Science and Linguistics.
 
-My research interests span the fields of Computer Vision, Computer Graphics and Computational Optics. I am particularly attracted to topics related to deep learning-based optics, event camera, AR/VR and generative models. My non-research interests include science (fantasy/speculative) fictions, zoos and gaming.
+My research interests span the fields of Computer Vision, Computer Graphics and Computational Optics. I am particularly attracted to topics related 3D/4D reconstruction, unconventional visual modalities (event camera, polarization, hyperspectral image, etc.), and deep optics. My non-research interests include science (fantasy/speculative) fictions, zoos and gaming.
