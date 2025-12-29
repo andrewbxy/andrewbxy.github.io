@@ -1,5 +1,0 @@
-I am currently a Postdoctoral Fellow at [WeLight Lab](https://hku.welight.fun/), Department of Electrical and Electronic Engineering, HKU. I am fortunate to be supervised by Prof. [Evan Y. Peng](https://www.eee.hku.hk/~evanpeng/). 
-
-I received my Ph.D. degree in Computer Science from University of Illinois Urbana-Champaign in 2023, advised by Prof. [Alexander Schwing](https://www.alexander-schwing.de/) and mentored by Prof. [Viktor Gruev](https://ece.illinois.edu/about/directory/faculty/vgruev) and Prof. David Forsyth. Before that, I completed my undergraduate study at University of California, Berkeley, where I majored in Computer Science, Applied Mathematics, Cognitive Science and Linguistics.
-
-My research interests span the fields of Computer Vision, Computer Graphics and Computational Optics. I am particularly attracted to topics related to 3D/4D reconstruction, unconventional visual modalities (event camera, polarization, hyperspectral image, etc.), AR/VR and deep optics. My non-research interests include science (fantasy/speculative) fictions, zoos and gaming.
