@@ -53,9 +53,19 @@
   ],
   "publications": [
     {
-      "name": "Enhanced Velocity Field Modeling for Gaussian Video Reconstruction",
-      "publisher": "IEEE ISMAR 2025",
-      "releaseDate": "2025"
+      "name": "Global Underwater Geolocation from Time-Lapse Polarization Imagery",
+      "publisher": "IEEE/CVF CVPR",
+      "releaseDate": "2026"
+    },
+    {
+      "name": "PhyGaP: Physically-Grounded Gaussians with Polarization Cues",
+      "publisher": "IEEE/CVF CVPR",
+      "releaseDate": "2026"
+    },
+    {
+      "name": "Structure-grounded Training Strategies Aid Generalization in Stereo Matching",
+      "publisher": "3DV",
+      "releaseDate": "2026"
     },
     {
       "name": "Learning RGBD imaging via asymmetrically focused stereo cameras",

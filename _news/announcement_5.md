@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-02-21 14:30:00+0400
+date: 2025-11-15 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Two papers have been accepted by <b>CVPR 2026</b>.
+One paper has been accepted by <b>3DV 2026</b>.
