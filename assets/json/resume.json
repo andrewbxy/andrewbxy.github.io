@@ -12,7 +12,7 @@
       "area": "Computer Science",
       "studyType": "Ph.D.",
       "startDate": "2018-08",
-      "endDate": "2023-12"
+      "endDate": "2024-02"
     },
     {
       "institution": "University of California, Berkeley",
@@ -34,7 +34,7 @@
       "name": "University of Illinois Urbana-Champaign",
       "position": "Graduate Research Assistant",
       "startDate": "2018",
-      "endDate": "2023"
+      "endDate": "2024"
     },
     {
       "name": "Amazon Studio LLC",
@@ -52,6 +52,16 @@
     }
   ],
   "publications": [
+    {
+      "name": "ERF-GS: Reconstructing Fast Motion from Disjoint Event-RGB Viewpoints",
+      "publisher": "CVMJ",
+      "releaseDate": "2026"
+    },
+    {
+      "name": "EventTracer: Fast Path Tracing-based Event Stream Rendering",
+      "publisher": "IEEE TVCG",
+      "releaseDate": "2026"
+    },
     {
       "name": "Global Underwater Geolocation from Time-Lapse Polarization Imagery",
       "publisher": "IEEE/CVF CVPR",
@@ -90,9 +100,47 @@
   ],
   "talks": [
     {
+      "name": "Differentiable Rendering and 3D Reconstruction with Unconventional Visual Modalities",
+      "date": "2026",
+      "venue": "USTC-HKU Joint Research Seminar on AI-empowered Scientific Imaging & Visual Computing"
+    },
+    {
+      "name": "Differentiable Rendering and 3D Reconstruction with Unconventional Visual Modalities",
+      "date": "2026",
+      "venue": "GAMES Technical Webinar"
+    },
+    {
+      "name": "Unconventional Visual Information-Driven Deep Learning Practices",
+      "date": "2024",
+      "venue": "State Key Lab of CAD & CG, Zhejiang University"
+    },
+    {
+      "name": "Unconventional Visual Information-Driven Deep Learning Practices",
+      "date": "2024",
+      "venue": "CSIG Youth Scientist Conference, Academic Service Forum"
+    },
+    {
       "name": "Polarization-Based Underwater Geolocalization with Neural Network Models",
       "date": "2024",
-      "summary": "The University of Hong Kong"
+      "venue": "The University of Hong Kong"
+    }
+  ],
+  "services": [
+    {
+      "title": "Program Committee of Emerging Technology",
+      "venue": "ACM SIGGRAPH Asia 2026"
+    },
+    {
+      "title": "Technical Paper Committee",
+      "venue": "IEEE ICCP 2026"
+    },
+    {
+      "title": "Program Manager of XR",
+      "venue": "ACM SIGGRAPH Asia 2025"
+    },
+    {
+      "title": "Technical Paper Committee",
+      "venue": "International Conference on Extended Reality (ICXR) 2025"
     }
   ]
 }
