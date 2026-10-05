@@ -100,27 +100,27 @@
   ],
   "talks": [
     {
-      "name": "Differentiable Rendering and 3D Reconstruction with Unconventional Visual Modalities",
+      "title": "Differentiable Rendering and 3D Reconstruction with Unconventional Visual Modalities",
       "date": "2026",
       "venue": "USTC-HKU Joint Research Seminar on AI-empowered Scientific Imaging & Visual Computing"
     },
     {
-      "name": "Differentiable Rendering and 3D Reconstruction with Unconventional Visual Modalities",
+      "title": "Differentiable Rendering and 3D Reconstruction with Unconventional Visual Modalities",
       "date": "2026",
       "venue": "GAMES Technical Webinar"
     },
     {
-      "name": "Unconventional Visual Information-Driven Deep Learning Practices",
+      "title": "Unconventional Visual Information-Driven Deep Learning Practices",
       "date": "2024",
       "venue": "State Key Lab of CAD & CG, Zhejiang University"
     },
     {
-      "name": "Unconventional Visual Information-Driven Deep Learning Practices",
+      "title": "Unconventional Visual Information-Driven Deep Learning Practices",
       "date": "2024",
       "venue": "CSIG Youth Scientist Conference, Academic Service Forum"
     },
     {
-      "name": "Polarization-Based Underwater Geolocalization with Neural Network Models",
+      "title": "Polarization-Based Underwater Geolocalization with Neural Network Models",
       "date": "2024",
       "venue": "The University of Hong Kong"
     }
